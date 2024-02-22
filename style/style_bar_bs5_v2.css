@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,700);
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+/*==== Cambiar el tamaño del texto de los elementos del navbar cuando esta entre los limites*/
+@media screen and (max-width: 1200px) and (min-width: 992px) {
+    li.txtnavbar {
+        color: #ffffff;
+    }
+}
+
+.uda-srvcs {
+    height:43px;
+}
+
+.uda-srvs-clr {
+    background-color: #36393A;
+    font-weight: normal !important;
+    color: #ffffff;
+}
+
+.uda-srvs-clr:hover {
+    background-color: #36393A;
+    color: #ffffff;
+}
+
+.uda-srvs-clr:visited {
+    background-color: #36393A;
+    color: #ffffff;
+}
+
+.uda-srvs-clr:link {
+    background-color: #36393A;
+    color: #ffffff;
+}
+
+.uda-ierse-bar {
+    height:86px;
+}
+
+.uda-ierse-clr {
+    background-color: #0070B4;
+    color: #ffffff;
+}
+
+.footer-clr{
+    background-color: #3E93C5 !important;
+    padding-top: 20px;
+}
+
+.text-muted{
+    color: #ffffff !important;
+    text-decoration: none;
+}
+
+.footer-title{
+    color: #ffffff !important;
+    font-weight: bold;
+}
+
+.footer-hr{
+    color: #ffffff !important;
+}
+
+.ierse-li-hr{
+    border-bottom: 1px solid #bfbfbf;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+
+.ul-coll-ierse{
+    background-color: #ffffff;
+}
