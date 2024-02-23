@@ -19,7 +19,10 @@
     </head>
     <body>
         <!-- Header IERSE 2023 -->
-        <?php include("header_ierse_v2.html");?>
+        <?php 
+            // include("header_ierse_v2.html");
+            include("header_ierse_nolinks.html");
+        ?>
 
         <div class="container mt-5">
             <h3>Navbar Forms</h3>
