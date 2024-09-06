@@ -7,21 +7,21 @@
         <meta name='viewport' content='width=device-width, initial-scale=1'>
 
         <!-- Bootstrap 5.3.2   -->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+        <link href="https://ierse.uazuay.edu.ec/common_v2/ext_libs/bootstrap-5.3.3-dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://ierse.uazuay.edu.ec/common_v2/ext_libs/bootstrap-5.3.3-dist/js//bootstrap.bundle.min.js"></script>
         <!-- Bootstrap Icons   -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
         <!-- jQuery 3.5.1   -->
-        <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
-        <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+        <script src="https://ierse.uazuay.edu.ec/common_v2/ext_libs/jquery/jquery-3.6.0.js"></script>
+        <script src="https://ierse.uazuay.edu.ec/common_v2/ext_libs/jquery-ui-1.13.1/jquery-ui.js"></script>
 
         <link href="style/style_bar_bs5_v2.css" rel="stylesheet">
     </head>
     <body>
         <!-- Header IERSE 2023 -->
         <?php 
-            // include("header_ierse_v2.html");
-            include("header_ierse_nolinks.html");
+            include("header_ierse_v2.html");
+            // include("header_ierse_nolinks.html");
         ?>
 
         <div class="container mt-5">
